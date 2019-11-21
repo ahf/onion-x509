@@ -1,0 +1,3 @@
+*.pem
+
+/cmd/onion-x509/onion-x509
