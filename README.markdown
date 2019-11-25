@@ -9,7 +9,7 @@ Everything in this repository should be considered experimental.
 
 Please install this tool using Go's own package management tool:
 
-    $ go install github.com/ahf/onion-x509/cmd/onion-x509
+    $ go get github.com/ahf/onion-x509/cmd/onion-x509
 
 ## Usage
 
